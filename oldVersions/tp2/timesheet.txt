@@ -1,0 +1,11 @@
+11/19 4 hr; made the title screen and a demo for pygame
+11/21 10 hr; did tp1 things
+
+11/22 5 hr; did tp2 things 
+11/22 4 hr; did tp2 things
+11/23 2 hr; did more
+11/26 4 hr; rewrote code so rotation is easier
+11/27 4 hr; I love 112
+11/28 2 hr; finishing tp2
+11/29 7 hr; lol tp2
+

@@ -1,0 +1,2 @@
+11/19 4 hr; made the title screen and a demo for pygame
+11/21 10 hr; did tp1 things
